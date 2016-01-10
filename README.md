@@ -19,4 +19,4 @@
 - ASCII art 
 
 ####Created by 
-[Austin Gilmour](www.github.com/gilmoursa)
+[Austin Gilmour](austingilmour.com)
