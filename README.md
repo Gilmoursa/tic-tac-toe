@@ -10,13 +10,17 @@
 - Method for testing a winner is not hardcoded
 - Pick who is the computer and who is the human ('X' or 'O')
 - Runs in terminal
-- Computer is not smart (at the moment)
+- Computer is not smart
 - Game announces winner and asks to play again
-- Randomize the first turn between computer and human player
 - Built with object oriented design principles
+
+###Extras
+- Randomize the first turn between computer and human player
+- Computer is smarter
 - Code is DRY
 - Colored text 
 - ASCII art 
+
 
 ####Created by 
 [Austin Gilmour](http://www.austingilmour.com)
